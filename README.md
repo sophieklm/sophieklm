@@ -1,6 +1,6 @@
 ### Sophie Mann
 
-[LinkedIn](https://www.linkedin.com/in/sophie-mann) | [Email](sklm@live.co.uk)
+[LinkedIn](https://www.linkedin.com/in/sophie-mann) | [Email](mailto:sklm@live.co.uk)
 
 Full stack Software Engineer, predominantly working in Ruby on Rails and React, with startup experience and a background in physics and clinical science.
 
