@@ -6,6 +6,6 @@ Full stack Software Engineer, predominantly working in Ruby on Rails and React, 
 
 I care deeply about the importance of diverse perspectives, fostering innovation through inclusivity and cultivating team collaboration.
 
-Member of various tech groups: [Femme Palette](https://www.femmepalette.com/) (Mentee), [Rails Girls](https://railsgirls.london/) (Coach), [Out in Tech](https://outintech.com/), [LGBTQ in Tech](https://lgbtq.technology/), [ISNBS](https://isnbs.org/)
+Member of various tech groups: [Femme Palette](https://www.femmepalette.com/) (Mentee), [Rails Girls](https://railsgirls.london/) (Coach), [Out in Tech](https://outintech.com/), [LGBTQ in Tech](https://lgbtq.technology/), [TransTech](https://transtechsocial.org/), [ISNBS](https://isnbs.org/)
 
-Favourite conferences: [ffconf](https://ffconf.org/), [Brighton Ruby](https://brightonruby.com/), [HalfStack](https://halfstackconf.com/)
+Favourite conferences: [ffconf](https://ffconf.org/), [Brighton Ruby](https://brightonruby.com/), [HalfStack](https://halfstackconf.com/), [Lesbians Who Tech](https://lesbianswhotech.org/)
